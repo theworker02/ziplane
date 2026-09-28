@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/ziplane",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zip list/lane set operations for shell-friendly data wrangling.",
+  "bin": {
+    "ziplane": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/ziplane.git"
+  },
+  "homepage": "https://theworker02.github.io/ziplane/",
+  "keywords": [
+    "zip",
+    "lane",
+    "list",
+    "cli",
+    "toolkit"
+  ]
+}
